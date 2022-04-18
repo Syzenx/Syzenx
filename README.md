@@ -1,4 +1,4 @@
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+<h3 align="center">Un apasionado por el desarrollo de aplicaciones</h3>
 
 - 🔭 Actualmente estoy trabajando en **Nature Hosting**
 
