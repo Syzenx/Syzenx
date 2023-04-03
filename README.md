@@ -4,12 +4,12 @@
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
-- 📫 Cómo contactarme ****
+- 📫 Cómo contactarme **Syzenx#3656**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/syzenx" target= "en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt= "syzenx" height="30" width="40" /></a>
-<a href="https://discord.gg/Syzenx#6735" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syzenx#6735" height="30" width="40" /></a >
+<a href="Syzenx#6735" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Syzenx#6735" height="30" width="40" /></a >
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
