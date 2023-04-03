@@ -1,10 +1,10 @@
 <h3 align="center">Un apasionado por el desarrollo de aplicaciones</h3>
 
-- 🔭 Actualmente estoy trabajando en **Nature Hosting**
+- 🔭 Actualmente estoy trabajando en ****
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
-- 📫 Cómo contactarme **contact@syzenx.me**
+- 📫 Cómo contactarme ****
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
