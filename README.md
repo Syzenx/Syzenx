@@ -1,6 +1,6 @@
 <h3 align="center">Un apasionado por el desarrollo de aplicaciones</h3>
 
-- 🔭 Actualmente estoy trabajando en ****
+- 🔭 Actualmente estoy trabajando en **Glacial Studios**
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
